@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lazzy Reader</string>
+    <string name="title_activity_image_enhancemt">ImageEnhancemt</string>
+    <string name="title_activity_image_enhancement">ImageEnhancement</string>
+</resources>
